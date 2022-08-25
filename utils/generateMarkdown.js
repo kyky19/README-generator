@@ -43,13 +43,13 @@ function generateMarkdown(data) {
   * [Contribute](#contribute)
   * [Tests](#tests)
   * [Questions](#questions)
-  * [Credits](#credit)
+  * [Credits](#credits)
   ## Description
   ${data.desc}
   ${renderLicenseSection(data.licenses)}
   ## Usage
   ${data.use}
-  ## Installation
+  ## Install
   ${data.install}
   ## Contribute
   ${data.contribute}
